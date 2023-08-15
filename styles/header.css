@@ -44,3 +44,7 @@
 .lista-menu__titulo{
     color: var(--laranja);
 }
+
+.lista-menu__link{
+    color var(--azul-degrade);
+}
