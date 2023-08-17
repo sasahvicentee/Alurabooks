@@ -1,8 +1,9 @@
 .cabecalho_menu-hamburguer{
     width: 36px;
-    height: 36px;
+    height: 24px;
     background-image: url("../img/Menu.svg");
     background-repeat: no-repeat;
+    background-position: center;
     justify-content: center;
     display: inline-block;
     align-items: center
