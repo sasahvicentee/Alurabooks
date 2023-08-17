@@ -4,9 +4,8 @@
     background-image: url("../img/Menu.svg");
     background-repeat: no-repeat;
     justify-content: center;
-    align-items: center;
-    justify-content: space-between;
     display: inline-block;
+    align-items: center
 }
 
 .cabecalho {
