@@ -18,5 +18,6 @@
 }
 
 .swiper-pagination {
-position: initial
+position: initial;
+margin: 1em 0;
 }
