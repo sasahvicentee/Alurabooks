@@ -26,3 +26,8 @@ margin: 0.5em 0;
     display: flex;
     justify-content: space-between;
 }
+
+.card__botões {
+    display: flex;
+    justify-content: space-between;
+}
