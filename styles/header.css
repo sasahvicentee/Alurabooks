@@ -23,9 +23,12 @@
 }
 
 .container_imagem{
-    padding: 1em 1em;
+    padding: 1em;
 }
 
+.container___imagem{
+    padding: 1em;
+}
 .lista-menu{
     display: none;
     position: absolute;
