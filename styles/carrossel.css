@@ -67,7 +67,7 @@ margin: 0.5em 0;
 
 .botões__ancora {
     background-color: var(--laranja);
-    padding: 1em 2.5em;
+    padding: 1em 2.5em 0 1em;
 }
 
 .descrição__imagem {
