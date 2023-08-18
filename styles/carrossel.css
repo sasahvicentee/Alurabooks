@@ -69,3 +69,7 @@ margin: 0.5em 0;
     background-color: var(--laranja);
     padding: 1em 2.5em;
 }
+
+.descrição__imagem {
+    padding: 0 0 1em;
+}
