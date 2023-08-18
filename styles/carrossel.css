@@ -68,8 +68,4 @@ margin: 0.5em 0;
 .botões__ancora {
     background-color: var(--laranja);
     padding: 1em 2.2em ;
-    justify-content: space-between;
-    color: var(--branco);
-    font-weight: 700;
-    text-decoration: none;
 }
