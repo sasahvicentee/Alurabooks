@@ -69,3 +69,7 @@ margin: 0.5em 0;
     background-color: var(--laranja);
     padding: 1.2em 2.2em ;
 }
+
+.descrição__imagem {
+    justify-content: space-between;
+}
