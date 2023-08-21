@@ -23,6 +23,12 @@ hr {
     display: none;
 }
 
+.rodapé__titulo
+    {
+        display: none;
+    }
+
+
 
 @media screen and (min-width: 1024px) {
     .rodapé {
