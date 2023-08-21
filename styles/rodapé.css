@@ -7,28 +7,6 @@ hr {
     padding: 1em;
 }
 
-.lista-rodapé{
-    display: none;
-}
-
-.lista-rodapé__item{
-    display: none;
-}
-
-.lista-rodapé__link{
-    display: none;
-}
-
-.lista-rodapé__titulo{
-    display: none;
-}
-
-.rodapé__titulo
-    {
-        display: none;
-    }
-
-
 
 @media screen and (min-width: 1024px) {
     .rodapé {
