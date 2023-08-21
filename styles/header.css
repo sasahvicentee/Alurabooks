@@ -60,6 +60,10 @@
     display: none;
 }
 
+.container__titulo{
+    display: none;
+}
+
 @media screen and (min-width: 1024px) {
     .container__titulo, .container__titulo--negrito{
     font font-family: var(--fonte-secundario);
@@ -68,6 +72,7 @@
 
 .container__titulo{
     font-weight: 400;
+    display: block;
 }
 
 .container__titulo--negrito{
