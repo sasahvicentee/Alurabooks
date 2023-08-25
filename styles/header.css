@@ -121,7 +121,8 @@
         align-items: center;
         text-decoration: none;
         color: var(--preto);
-        .cabeçalho {
+        
+        .cabecalho {
             padding: 0 2em;
         }
     
