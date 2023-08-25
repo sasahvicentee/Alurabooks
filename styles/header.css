@@ -121,4 +121,15 @@
         align-items: center;
         text-decoration: none;
         color: var(--preto);
+        .cabeçalho {
+            padding: 0 2em;
+        }
+    
+        .opções {
+            margin-right: auto;
+        }
+    
+        .container__texto {
+            display: block;
+        }
     }
